@@ -1,5 +1,7 @@
 # Netflix-Insights-Visualization-of-Netflix-data
 
+Link to see the dashboard--https://public.tableau.com/views/NetflixVisualization_16768309958590/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
 In this project I created a visualization to reveal insights from the data set.
 First I downloaded the netflix data from kaggle.The data file which is downloaded is netflix_titles.csv 
 Then I created a notebook file in jupyter notebook to clean some data or add some. I read the data using pandas library and then added two new columns which consist of month and the year when they were added on netflix. Also converted the float values in integer. Then created a new csv file Netflix.csv which contains the changes done the inital data set.
